@@ -18,7 +18,7 @@ Reading column names, creating vector for defining ID, mean and standard deviati
 
 Step 3: Uses descriptive activity names to name the activities in the data set
 
-Step 4: Appropriately labeles the data set with descriptive variable names
+Step 4: Appropriately labels the data set with descriptive variable names
 
 Step 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject. This 
 include: 
