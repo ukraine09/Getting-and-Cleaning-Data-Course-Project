@@ -1,3 +1,4 @@
+
 # this is Getting-and-Cleaning-Data-Course-Project R code 
 
 # download, unzip files, check if data directory consist files 
@@ -67,3 +68,4 @@ tidy_set2 <- tidy_set2[order(tidy_set2$subject, tidy_set2$activity),]
 View(tidy_set2)
 
 write.table(tidy_set2, "tidy_set2.txt", row.name=FALSE)
+
