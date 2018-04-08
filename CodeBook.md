@@ -92,4 +92,4 @@ Step 4: Appropriately labels the data set with descriptive variable names
 Step 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject. This 
 include: 
 
-Making second tidy data set, writing second tidy data set in txt file. 
+Making second tidy data set, writing second tidy data set in txt file - tidy_set2.txt. 
